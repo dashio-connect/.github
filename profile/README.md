@@ -24,4 +24,3 @@ Apple              | Android
 ## Contact
 
 If you have any questions, feedback, or need assistance, please feel free to [contact us](https://dashio.io/contact/). We're here to help!
-
