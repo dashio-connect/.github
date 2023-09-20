@@ -1,7 +1,7 @@
 
 # Dash IoT Dashboard
 
-Welcome to DashIO Connect's GitHub repositories. Located here are the libraries, tutorials, and projects for the DashIO app.
+Welcome to [DashIO Connect's](https://dashio.io) GitHub repositories. Located here are the libraries, tutorials, and projects for the DashIO app.
 
 The Dash IoT Dashboard app enables you to easily create powerful dashboards without writing any code in the Dash app, then connect your project to it with theses libraries. We are working on adding more tutorials and projects so check back often.
 
