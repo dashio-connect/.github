@@ -13,7 +13,7 @@ Apple              | Android
 
 ## Libraries
 
-1. [arduino-dashio](https://github.com/dashio-connect/python-dashio)
+1. [python-dashio](https://github.com/dashio-connect/python-dashio)
 2. [arduino-dashio](https://github.com/dashio-connect/arduino-dashio)
 
 ## Projects
