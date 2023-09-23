@@ -24,6 +24,7 @@ Apple              | Android
 
 1. [docker-dashboard](https://github.com/dashio-connect/docker-dashboard)
 2. [raspberrypi-sensehat-colorpicker](https://github.com/dashio-connect/raspberrypi-sensehat-colorpicker)
+3. [esp32-temperature-monitor](https://github.com/dashio-connect/esp32-temperature-monitor)
 
 ## Contact
 
