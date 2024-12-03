@@ -11,6 +11,11 @@ Apple              | Android
 :-----------------:|:------------------:
 [<img src=https://raw.githubusercontent.com/dashio-connect/python-dashio/master/Documents/download-on-the-app-store.svg width=200>](<https://apps.apple.com/us/app/dash-iot/id1574116689>) | [<img src=https://raw.githubusercontent.com/dashio-connect/python-dashio/master/Documents/Google_Play_Store_badge_EN.svg width=223>](<https://play.google.com/store/apps/details?id=com.dashio.dashiodashboard>)
 
+## Discord Community
+
+[![](https://img.shields.io/discord/1313341785430429747?color=5865F2&logo=Discord&style=flat-square)](https://discord.gg/Cn9jeX9z)
+Be a part of the DashIO community by joining our [Discord Server](https://discord.gg/Cn9jeX9z)
+
 ## Libraries
 
 1. [python-dashio](https://github.com/dashio-connect/python-dashio)
