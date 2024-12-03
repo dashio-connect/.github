@@ -14,6 +14,7 @@ Apple              | Android
 ## Discord Community
 
 [![](https://img.shields.io/discord/1313341785430429747?color=5865F2&logo=Discord&style=flat-square)](https://discord.gg/Cn9jeX9z)
+
 Be a part of the DashIO community by joining our [Discord Server](https://discord.gg/Cn9jeX9z)
 
 ## Libraries
